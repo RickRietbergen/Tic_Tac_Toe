@@ -1,2 +1,2 @@
-# Tic_Tac_Toe_Game
-A visual game of Tic Tac Toe
+# Tic_Tac_Toe
+A visual game of Tic Tac Toe using c#.
